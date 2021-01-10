@@ -17,7 +17,7 @@ You need Node.js installed to run the application.
 Clone or download the project from GitHub, change into the directory and install the dependencies.
 
 ```bash
-git clone https://github.com/philnash/react-web-audio.git
+git clone git@github.com:DiveIntoHacking/react-web-audio.git
 cd react-web-audio
 npm install
 ```
