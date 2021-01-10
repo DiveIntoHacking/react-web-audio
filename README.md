@@ -19,13 +19,13 @@ Clone or download the project from GitHub, change into the directory and install
 ```bash
 git clone git@github.com:DiveIntoHacking/react-web-audio.git
 cd react-web-audio
-npm install
+yarn install
 ```
 
 Start the application:
 
 ```bash
-npm start
+yarn start
 ```
 
 And open the browser to [http://localhost:3000/](http://localhost:3000).
